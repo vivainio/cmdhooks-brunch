@@ -1,12 +1,13 @@
 ## cmdhooks-brunch
-Add support for post-compile commnad line hooks for [brunch](http://brunch.io).
+
+Add support for post-compile command line hooks for [brunch](http://brunch.io).
 
 ## Usage
 
 Add this to your `package.json` 
 
 ```javascript
-cmdhooks-brunch": "git+ssh://git@github.com:vivainio/cmdhooks-brunch.git"
+"cmdhooks-brunch": "git+ssh://git@github.com:vivainio/cmdhooks-brunch.git"
 ```
 
 Next to your package.json, create a script called `hook_compile` that is executed
