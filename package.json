@@ -1,12 +1,12 @@
 {
   "name": "cmdhooks-brunch",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Adds Command line progrem support to brunch.",
   "author": "Ville Vainio",
-  "homepage": "https://github.com/brunch/css-brunch",
+  "homepage": "https://github.com/vivainio/cmdhooks-brunch",
   "repository": {
     "type": "git",
-    "url": "git@github.com:brunch/css-brunch.git"
+    "url": "git@github.com:vivainio/cmdhooks-brunch.git"
   },
   "main": "./lib/index",
   "scripts": {
